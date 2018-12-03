@@ -14,13 +14,13 @@ Quoting this [article](https://www.forbes.com/sites/zackfriedman/2018/06/13/stud
 The average student in the Class of 2016 has $37,172 in student loan debt.
 ```
 The data here ([link](https://fred.stlouisfed.org/graph/?id=SLOAS,#0)) from the Federal Reserve Economic Data shows that as of 2018, the total debt in student loans is **$1.53 trillion!**.  No other country in the world even comes close to this. 
-Having a college degree significantly impacts a student's marketabilty in the industry. This is the major reason that motivates students to complete college and earn their. However the supply and demand varies across sectors. Computer science majors will probably find more opportunities after graduation than an arts major. However, the fees and expenditure incurred by the students will more or less be the same. This makes one wonder whether the fees of various courses be determined by their ROI. But that's something I won't be pursuing this question in my analysis here.
+Having a college degree significantly impacts a student's marketabilty in the industry. This is the major reason that motivates students to complete college and earn their degree. However the supply and demand varies across sectors. Computer Science majors will probably find more opportunities after graduation than an Arts major. However, the fees and expenditure incurred by the students will, more or less, be the same. This makes one wonder whether the fees should be determined by the ROI. But that's something I won't be pursuing this question in my analysis here.
 
 ### II. Research Questions
 
-All of this motivated me to explore this issue further as the main topic of my project. The human centred aspect of this project is the subject around which the analysis arounds: **the students.** As a student, I too am interested in knowing how my fees are being utilized and how much of it is actually being spent on me. Hence part of my analysis I intend to explore the following two question:
-- How did the average tuition fees increase over the years.
-- What are the factors that have contributed to the above increase.
+All of this motivated me to explore this issue further as the main topic of my project. The human centred aspect of this project is the subject around which the analysis arounds: **the students.** As a student, I too am interested in knowing how my fees are being utilized and how much of it is actually being spent on me. Hence part of my analysis I intend to explore the following three questions:
+- How did the average tuition fees increase over the years?
+- What are the factors that have contributed to the above increase?
 - Where is the money going, i.e, are students receiving benefits that are proportional to the fees that they are charged? 
 
 ### III. Data Sources
