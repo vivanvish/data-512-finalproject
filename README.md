@@ -32,7 +32,7 @@ Out of those 974 variables, these are some of the variables that got used were:
 - research01            : Gross expense related to research activities
 - nettuition_share      : Share of instructional expense covered by tuition.
 
-Due to size restrictions the raw data files could not be uploaded to github. So I have uploaded it to a google drive and you can download the data from [here](https://drive.google.com/open?id=1ur9Ahh0NGru6L5HfCs3j7R4Cf4xJXPDa): <br/>
+Due to size restrictions the raw data files could not be uploaded to github. So I have uploaded it to a google drive and you can download the data from [here](https://drive.google.com/drive/folders/1ur9Ahh0NGru6L5HfCs3j7R4Cf4xJXPDa?usp=sharing): <br/>
 Please make sure that both files are downloaded and stored in the data folder.
 
 The second source of data is Historical Median Household Income by State data from 2000-2017. It was downloaded from [here](https://www.census.gov/data-tools/demo/saipe/saipe.html?s_appName=saipe&map_yearSelector=2017&map_geoSelector=aa_c&s_USStOnly=y&menu=trends&s_measures=mhi_snc&s_inclStTot=y&s_inclUsTot=y). You can find the data in the `data` folder under the named as `household_income.csv`
